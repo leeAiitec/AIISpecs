@@ -1,0 +1,6 @@
+framework module AIIBaseLibrary {
+  umbrella header "AIIBaseLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "AIIBaseLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of AIIBaseLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/leeAiitec/AIIBaseLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "leeAiitec": "lhzh@aiitec.com"
+  },
+  "source": {
+    "git": "https://github.com/leeAiitec/AIIBaseLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AIIBaseLibrary/Classes/**/*"
+}
