@@ -1,0 +1,14 @@
+use_frameworks!
+
+target 'AIIBaseLibrary_Example' do
+  pod 'AIIBaseLibrary', :path => '../'
+
+  target 'AIIBaseLibrary_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+    pod 'Expecta'
+    pod 'FBSnapshotTestCase'
+    pod 'Expecta+Snapshots'
+  end
+end
